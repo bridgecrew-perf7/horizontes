@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="423.33334mm"
+   height="120.26109mm"
+   viewBox="0 0 423.33336 120.26109"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="fraichup.svg"
+   inkscape:export-filename="E:\Kevin\Kode\Web\Toto\fraichup.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient884">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop880" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop882" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1014">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1"
+         offset="0"
+         id="stop1010" />
+      <stop
+         style="stop-color:#0055d4;stop-opacity:1"
+         offset="1"
+         id="stop1012" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient865">
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:1"
+         offset="0"
+         id="stop861" />
+      <stop
+         style="stop-color:#0055d4;stop-opacity:1"
+         offset="1"
+         id="stop863" />
+    </linearGradient>
+    <rect
+       x="15.654852"
+       y="21.977003"
+       width="177.92342"
+       height="90.617508"
+       id="rect845" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient865"
+       id="linearGradient867"
+       x1="29.766285"
+       y1="31.091148"
+       x2="186.97598"
+       y2="31.091148"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient1016"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3754"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3756"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3758"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3760"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3762"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3764"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient3766"
+       gradientUnits="userSpaceOnUse"
+       x1="29.766285"
+       y1="44.645626"
+       x2="186.97598"
+       y2="17.773432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient884"
+       id="linearGradient886"
+       x1="148.47041"
+       y1="31.703876"
+       x2="165.32115"
+       y2="23.534153"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.974579"
+     inkscape:cx="960.6469"
+     inkscape:cy="298.5605"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3708"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid980"
+       originx="-28.437316"
+       originy="-42.34669" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-28.437314,-42.34669)">
+    <text
+       xml:space="preserve"
+       id="text843"
+       style="font-size:10.5833px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:3.40783px;white-space:pre;shape-inside:url(#rect845);" />
+    <g
+       aria-label="fraichup"
+       id="text851"
+       style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;fill:url(#linearGradient1016);fill-opacity:1;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,41.30711)" />
+    <g
+       id="g1040"
+       transform="translate(-1.1289833,0.96770001)"
+       style="fill-rule:evenodd">
+      <g
+         id="g3708"
+         transform="matrix(2.68596,0,0,2.68596,-49.847562,-69.762721)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           d="m 29.766285,25.88214 q 0,-1.740943 0.635582,-3.260813 0.635582,-1.547504 1.685674,-2.652864 1.077726,-1.132994 2.459426,-1.768576 1.409334,-0.663216 2.90157,-0.663216 h 10.473286 v 3.675322 H 37.890681 q -1.050092,0 -1.879112,0.41451 -0.82902,0.41451 -1.409334,1.077726 -0.55268,0.663216 -0.856654,1.51987 -0.303974,0.829021 -0.303974,1.658041 v 18.763486 h -3.675322 z m 4.670146,4.753048 V 26.43482 q 0,-0.718484 0.221072,-1.464602 0.248706,-0.773753 0.718484,-1.381701 0.469778,-0.607948 1.188262,-0.994824 0.718484,-0.386876 1.685674,-0.386876 h 9.6719 v 3.675323 h -9.588998 q -0.165804,0 -0.359242,0.193438 -0.165804,0.193438 -0.165804,0.525046 V 26.9875 h 8.01386 v 3.647688 z m 0,0.911922 h 11.385208 v 3.675322 h -8.01386 v 9.423194 h -3.371348 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3754);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path869"
+           transform="translate(0,41.30711)" />
+        <path
+           d="m 49.082436,44.645626 h 3.675322 V 25.965042 h 6.991402 q 0.221072,0 0.331608,0.165804 0.13817,0.13817 0.13817,0.331608 0,0.193438 -0.13817,0.359242 Q 59.970232,26.9875 59.74916,26.9875 h -5.996578 v 17.658126 h 3.675322 v -9.478462 l 5.471532,9.478462 h 3.951662 l -7.87569,-13.844634 h 0.911922 q 0.856654,0 1.602772,-0.331608 0.746118,-0.331608 1.271164,-0.911922 0.55268,-0.580314 0.856654,-1.354066 0.303974,-0.801386 0.303974,-1.713308 0,-2.127819 -1.160628,-3.177911 -1.132994,-1.050092 -2.873936,-1.050092 H 49.082436 Z m 19.122728,0 h 3.758224 L 65.662836,33.370954 q 1.3817,-1.050092 2.183086,-2.7634 0.801386,-1.740942 0.801386,-4.117466 0,-1.879112 -0.69085,-3.509519 -0.663216,-1.630406 -1.851478,-2.846302 -1.188262,-1.215896 -2.791034,-1.906746 -1.602772,-0.69085 -3.426616,-0.69085 H 49.082436 v 3.73059 H 59.88733 q 1.160628,0 2.07255,0.386876 0.939556,0.386876 1.602772,1.077726 0.663216,0.69085 1.022458,1.65804 0.359242,0.967191 0.359242,2.100185 0,1.10536 -0.359242,2.044916 -0.359242,0.911922 -0.939556,1.602772 -0.580314,0.69085 -1.354066,1.10536 -0.746118,0.41451 -1.547504,0.469778 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3756);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path871"
+           transform="translate(0,41.30711)" />
+        <path
+           d="m 78.816603,41.412448 h 11.46811 L 83.265677,21.930477 q -0.0829,-0.27634 -0.497412,-0.497412 -0.41451,-0.221072 -0.801386,-0.221072 -0.442144,0 -0.82902,0.221072 -0.359242,0.221072 -0.442144,0.497412 l -7.986226,22.715149 h -3.675322 l 8.538906,-24.096849 q 0.193438,-0.580314 0.55268,-1.10536 0.359242,-0.55268 0.884288,-0.96719 0.55268,-0.442144 1.271164,-0.69085 0.746118,-0.248706 1.685674,-0.248706 0.939556,0 1.65804,0.248706 0.718484,0.248706 1.24353,0.69085 0.55268,0.41451 0.911922,0.96719 0.359242,0.525046 0.580314,1.10536 l 8.538907,24.096849 H 78.816603 Z m 0,-0.994824 v -1.050092 l -1.768576,5.278094 h -3.343714 l 7.59935,-22.024299 q 0.05527,-0.165804 0.248706,-0.27634 0.221072,-0.13817 0.41451,-0.13817 0.193438,0 0.41451,0.13817 0.221072,0.110536 0.27634,0.27634 l 6.300552,17.796297 z m 3.150276,-10.252214 -2.21072,6.963768 h 4.504342 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3758);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path873"
+           transform="translate(0,41.30711)" />
+        <path
+           d="M 95.314092,44.645626 V 17.536671 h 3.675322 v 27.108955 z m 4.670146,0 V 17.536671 h 3.675322 v 27.108955 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3760);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path875"
+           transform="translate(0,41.30711)" />
+        <path
+           d="m 124.5232,44.645626 h -10.47328 q -1.49224,0 -2.90157,-0.635582 -1.3817,-0.663216 -2.45943,-1.768576 -1.05009,-1.132994 -1.68567,-2.652864 -0.63559,-1.547504 -0.63559,-3.288446 V 25.88214 q 0,-1.740943 0.63559,-3.260813 0.63558,-1.547504 1.68567,-2.652864 1.07773,-1.132994 2.45943,-1.768576 1.40933,-0.663216 2.90157,-0.663216 h 10.47328 v 3.675322 h -10.03114 q -1.05009,0 -1.87911,0.41451 -0.82902,0.41451 -1.40934,1.077726 -0.55268,0.663216 -0.85665,1.51987 -0.30397,0.829021 -0.30397,1.658041 v 10.418018 q 0,0.82902 0.30397,1.685674 0.30397,0.82902 0.85665,1.492236 0.58032,0.663216 1.40934,1.077726 0.82902,0.41451 1.87911,0.41451 h 10.03114 z m -9.17449,-8.345468 h 9.17449 v 3.675322 h -9.6719 q -0.96719,0 -1.68567,-0.386876 -0.71849,-0.386876 -1.18826,-0.994824 -0.46978,-0.607948 -0.71849,-1.354066 -0.22107,-0.773752 -0.22107,-1.492236 V 26.43482 q 0,-0.718484 0.22107,-1.464602 0.24871,-0.773753 0.71849,-1.381701 0.46977,-0.607948 1.18826,-0.994824 0.71848,-0.386876 1.68567,-0.386876 h 9.6719 v 3.675323 h -9.17449 q -0.1658,0 -0.35924,0.193438 -0.1658,0.193438 -0.1658,0.525046 v 8.98105 q 0,0.718484 0.35924,0.718484 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3762);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path877"
+           transform="translate(0,41.30711)" />
+        <path
+           d="m 130.27105,31.54711 v 13.098516 h 3.67532 v -9.423194 h 3.34371 v 9.423194 h 3.67533 V 31.54711 Z m 0,-0.994824 h 10.69436 V 17.536671 h -3.67533 v 9.340293 h -3.34371 v -9.340293 h -3.67532 z m 11.68918,14.09334 h 3.67532 V 17.536671 h -3.67532 z m -16.35933,0 h 3.67532 V 17.536671 h -3.67532 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3764);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path879"
+           transform="translate(0,41.30711)" />
+        <path
+           d="m 154.22971,40.970304 c -0.70006,0 -1.28958,-0.09211 -1.76857,-0.27634 -0.47899,-0.202649 -0.87508,-0.478989 -1.18826,-0.82902 -0.29477,-0.350031 -0.51584,-0.764541 -0.66322,-1.24353 -0.12896,-0.478989 -0.19344,-0.994824 -0.19344,-1.547504 v -7.082516 -3.085812 -9.368911 h -3.48188 v 18.763487 c 0,2.947627 0.61716,5.075445 1.85148,6.383454 1.25274,1.308009 3.19633,1.962014 5.83077,1.962014 h 3.53715 c 1.34485,0 2.49627,-0.156593 3.45425,-0.469778 0.9764,-0.313185 1.77779,-0.801386 2.40416,-1.464602 0.62637,-0.681639 1.08694,-1.547504 1.3817,-2.597596 0.29476,-1.068515 0.44214,-2.339679 0.44214,-3.813492 V 17.536671 h -3.48188 V 37.07391 c 0,0.55268 -0.0737,1.068515 -0.22107,1.547504 -0.12896,0.478989 -0.35003,0.893499 -0.66322,1.24353 -0.29476,0.350031 -0.68164,0.626371 -1.16063,0.82902 -0.47899,0.184227 -1.06851,0.27634 -1.76857,0.27634 z m 1.27117,-4.670146 c -0.22107,0 -0.36846,-0.06448 -0.44215,-0.193438 -0.0553,-0.128959 -0.0829,-0.303974 -0.0829,-0.525046 V 17.536671 h -3.56478 V 36.52123 c 0,0.644793 0.0461,1.188262 0.13817,1.630406 0.0921,0.423721 0.2487,0.773752 0.46977,1.050092 0.2395,0.27634 0.5619,0.478989 0.96719,0.607948 0.42373,0.110536 0.95799,0.165804 1.60278,0.165804 h 3.59242 c 0.64479,0 1.16984,-0.05527 1.57513,-0.165804 0.42373,-0.128959 0.74612,-0.331608 0.96719,-0.607948 0.2395,-0.27634 0.40531,-0.626371 0.49742,-1.050092 0.0921,-0.442144 0.13817,-0.985613 0.13817,-1.630406 V 17.536671 h -3.56479 v 18.045003 c 0,0.221072 -0.0368,0.396087 -0.11054,0.525046 -0.0737,0.128959 -0.21186,0.193438 -0.41451,0.193438 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient886);fill-opacity:1;fill-rule:evenodd;stroke:#ffd42a;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           id="path881"
+           sodipodi:nodetypes="scccsccccscsscccsccscccssscsccscccsscccsccssss"
+           transform="translate(0,41.30711)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           d="m 172.08125,44.645626 h 3.67532 v -9.202122 h 2.45943 q 1.82384,0 3.42662,-0.69085 1.60277,-0.69085 2.7634,-1.906746 1.18826,-1.215896 1.87911,-2.846302 0.69085,-1.630406 0.69085,-3.509518 0,-1.879112 -0.69085,-3.509519 -0.66322,-1.630406 -1.85148,-2.846302 -1.18826,-1.215896 -2.79103,-1.906746 -1.60278,-0.69085 -3.42662,-0.69085 h -10.80489 v 3.73059 H 178.216 q 1.16063,0 2.07255,0.386876 0.93956,0.386876 1.60277,1.077726 0.66322,0.69085 1.02246,1.65804 0.35924,0.967191 0.35924,2.100185 0,1.132994 -0.35924,2.100184 -0.35924,0.96719 -1.02246,1.65804 -0.66321,0.69085 -1.60277,1.077726 -0.91192,0.386876 -2.07255,0.386876 h -6.13475 z m -4.67014,0 h 3.67532 V 30.71809 h 7.12957 q 1.74094,0 2.87394,-1.050092 1.16062,-1.050092 1.16062,-3.17791 0,-2.127819 -1.16062,-3.177911 -1.133,-1.050092 -2.87394,-1.050092 h -10.80489 v 3.702957 H 178.216 q 0.1658,0 0.24871,0.193438 0.0829,0.165804 0.0829,0.331608 0,0.165804 -0.0829,0.359242 -0.0829,0.165804 -0.24871,0.165804 h -10.80489 z"
+           style="font-size:27.634px;line-height:1.25;font-family:'SEGA LOGO FONT';-inkscape-font-specification:'SEGA LOGO FONT';word-spacing:8.89801px;display:inline;fill:url(#linearGradient3766);fill-opacity:1;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path883"
+           transform="translate(0,41.30711)" />
+        <path
+           style="fill:#ffdd55;fill-rule:evenodd;stroke:none;stroke-width:0.2154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 144.25383,46.49587 1.42411,8.648462 h 20.85432 l 0.99306,-10.51231 h -1.98613 l -0.32475,3.059986 -2.2034,0.06645 0.33899,-6.379404 -2.88138,0.06645 -0.1695,3.721321 -2.14691,-0.332261 0.0565,1.594851 -2.3729,-0.06645 0.0565,-2.126468 h -1.75143 l -0.113,-2.525181 -2.99436,0.132903 -0.0565,2.790988 h -1.80792 l 0.0565,2.724539 h -2.76838 l -0.226,-1.063234 z"
+           id="path982" />
+        <path
+           style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:0.2154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 147.66405,55.144332 -1.20675,-7.784585 -0.22599,-1.063234 -1.97748,0.199357 1.42411,8.648464 z"
+           id="path984" />
+        <path
+           style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:0.2154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 149.16916,44.635208 h 1.80792 l 0.65923,10.509124 h -1.98612 z"
+           id="path986" />
+        <path
+           style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:0.2154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 155.60857,55.144332 h -1.98613 l 0.51852,-10.907836 h 1.75143 l -0.0565,2.126469 z"
+           id="path988" />
+        <path
+           style="fill:#ffd42a;fill-rule:evenodd;stroke:none;stroke-width:0.2154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 158.15224,44.834563 2.14691,0.332261 0.27473,9.977508 h -0.99306 -0.99307 z"
+           id="path990" />
+        <path
+           style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:0.2154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 162.56,55.144332 h 1.98612 l 0.66832,-7.452324 -2.2034,0.06645 z"
+           id="path992" />
+      </g>
+      <g
+         id="g919"
+         transform="matrix(2.68596,0,0,2.68596,-61.448291,215.95896)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         style="fill:#b3b3b3;fill-opacity:0.60240966;stroke:none" />
+    </g>
+  </g>
+</svg>
